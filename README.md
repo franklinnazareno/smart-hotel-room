@@ -2,6 +2,8 @@
 
 An Embedded Systems circuit design that orchestrates a seamless experience for guests.
 
+The project was developed around 2021 as to satisfy the requirements for the course "CPE 014 Embedded Systems".
+
 ## Functionality 
 
 This system offers the following functionalities:
